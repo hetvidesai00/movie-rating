@@ -1,0 +1,33 @@
+.cardItem {
+  background-color: #1a242f;
+  cursor: pointer;
+  transition: all 0.3s;
+
+  &:hover{
+    transform: scale(1.1);
+    transition:  all 0.3s;
+  }
+}
+
+.cardTop {
+  height: 300px;
+}
+
+.cardTop img {
+  width: 100%;
+  height: 100%;
+}
+
+.cardInfo {
+  color: #ffffff;
+}
+
+.cardInfo h4 {
+  font-size: 22px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.cardBottom {
+    padding: 20px;
+}

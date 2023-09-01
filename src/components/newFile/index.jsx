@@ -2,7 +2,8 @@ import React from 'react'
 
 function index() {
   return (
-    <div>index</div>
+    <div>new commit file added
+    </div>
   )
 }
 
